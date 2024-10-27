@@ -1,4 +1,4 @@
-# Talk Material in PyCon Indonesia 2024
+# Talk Material in PyCon APAC 2024
 ## Low-light Face Image Feature Extraction
 
 ## Inside this repository, there are:
